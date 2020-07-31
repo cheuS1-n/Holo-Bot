@@ -1,7 +1,7 @@
 {
   "name": "holo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Bot",
   "main": "Y.js",
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
@@ -14,6 +14,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "cheu$1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheuS1-Meliodas/Holo-Bot.git"
+  },
+  "keywords": [
+    "Holo",
+    "bot",
+    "anime"
+  ],
+  "bugs": {
+    "url": "https://github.com/cheuS1-Meliodas/Holo-Bot/issues"
+  },
+  "homepage": "https://github.com/cheuS1-Meliodas/Holo-Bot#readme"
 }
