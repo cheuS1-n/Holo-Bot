@@ -12,6 +12,7 @@ holo.help - Will show you all bot commands.
 
 # Request
 Node.JS => 12.0.0 or Higher
+
 Discord.JS => 12.0.0 or Higher
 
 # Enjoy :D
